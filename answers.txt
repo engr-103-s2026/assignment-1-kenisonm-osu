@@ -4,7 +4,7 @@ A1. Matthew Kenison (Instructor)
 
 Q2. Do you have any programming experience? If so, how much, and what programming languages have you used?
 
-A2. <WRITE YOUR ANSWER TO Q2 HERE>
+A2. Yes, used C++ before.
 
 Q3. Do you have experience writing code in C++?
 
