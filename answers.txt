@@ -8,7 +8,7 @@ A2. Yes, used C++ before.
 
 Q3. Do you have experience writing code in C++?
 
-A3. <WRITE YOUR ANSWER TO Q3 HERE>
+A3. Yes. 
 
 Q4. How do you think learning to solve computational problems and write programs could benefit an engineer, regardless of their field?
 
